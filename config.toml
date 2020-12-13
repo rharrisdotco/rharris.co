@@ -1,5 +1,5 @@
 theme = "harbor"
-title = "Hugo Themes"
+title = "rharris.co"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -16,7 +16,7 @@ disqusShortName = "yourdisqusshortname"
   domain="stats.domain.com"
 
 [Author]
-  name = "Hugo Author"
+  name = "rharris.co"
 
 [outputs]
   section = ["JSON", "HTML"]
