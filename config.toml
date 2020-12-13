@@ -1,5 +1,4 @@
 theme = "harbor"
-baseurl = "https://example.com/"
 title = "Hugo Themes"
 paginate = 3
 languageCode = "en"
